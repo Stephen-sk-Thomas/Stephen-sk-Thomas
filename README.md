@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stephen-sk-Thomas
 - 👀 Inspiring Front End Web Developer 
 - 🌱 I’m currently learning ...JavaScript
-- 💞️ I’m looking for ...javascript Mentors 
+- 💞️ I’m looking for ...javascript study buddies 
 - 📫 How to reach me ...steventom00000@gmail.com
 
 <!---
