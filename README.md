@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stephen-sk-Thomas
-- 👀 Inspiring Front End Web Developer 
+- 👀 Inspiring Web Developer 
 - 🌱 I’m currently learning ...JavaScript
 - 📫 How to reach me ...steventom00000@gmail.com
 
